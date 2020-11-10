@@ -1,0 +1,18 @@
+{
+  "name": "hello-cr",
+  "description": "Hello world in Node for Cloud Run",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">= 12.0.0"
+  },
+  "author": "paul@pcraig3.ca",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
